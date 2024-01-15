@@ -7,5 +7,5 @@ Cohort Analysis is a data analysis technique used to gain insights into the beha
 - Studied the correlations between different variables by plotting a heatmap of the correlation.
 - Also studied the weekly average of different factors by performing cohort analysis on them, and understanding the user engagement patterns over a duration of time.
 
-## Packages Used:
+#### Packages Used:
 pandas, matplotlib.pyplot, plotly, seaborn
