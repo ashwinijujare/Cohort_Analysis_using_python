@@ -1,5 +1,5 @@
 # Cohort_Analysis_using_python
-Cohort Analysis performed on data to find any trends in user engagement based on different factors.
+Cohort Analysis performed on data to find any trends in user engagement based on different factors. Originally from "60+ Data Analysis Projects with Python" by Aman Kharwal .
 
 ## Introduction
 Cohort Analysis is a data analysis technique used to gain insights into the behaviour and characteristics of specific groups of users or customers over time. It is valuable for businesses as it allows them to understand user behaviour in a more granular and actionable way.
